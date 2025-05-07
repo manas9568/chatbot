@@ -4,3 +4,9 @@ ShopBot/shopbot-sqtp-147dd47fde56.json
 ShopBot/dialogflow-key.json
 ShopBot/
 ShopBot/
+env_chatbot/
+db.sqlite3
+__pycache__/
+*.pyc
+*.zip
+
